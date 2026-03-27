@@ -11,37 +11,4 @@ console.log("welcome to the github");
 console.log("welcome to the github");
 console.log("welcome to the github");
 console.log("welcome to the github");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-hellooo
-
-
-
-
-
-
-
-fghhdfgdgdgdgfsdfsfsdfsfsdfsfsd
+console.log("welcome to the github");
